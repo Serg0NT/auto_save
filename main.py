@@ -15,6 +15,7 @@ def click_and_save(image) -> str:
     # pag.moveRel()
     pag.click(clicks=2)
     # pag.click(locate, clicks=2)
+    
 
     # pag.hotkey("ctrl", "a")
     # pag.hotkey("ctrl", "c")
